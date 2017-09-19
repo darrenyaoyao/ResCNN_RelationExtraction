@@ -30,3 +30,4 @@ If you use this model and the concept in your research, please cite:
 
 
 ### Result
+![Result](https://user-images.githubusercontent.com/16465582/30602103-3132b7f4-9d96-11e7-8328-81a6ea0bed19.png)
