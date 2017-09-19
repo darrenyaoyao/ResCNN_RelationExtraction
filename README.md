@@ -26,7 +26,7 @@ If you use this model and the concept in your research, please cite:
       }
 
 ### Model
-![Architecture]()
+![Architecture](https://user-images.githubusercontent.com/16465582/30602043-05f63dd6-9d96-11e7-9f2e-382e15a2b37a.png)
 
 
 ### Result
