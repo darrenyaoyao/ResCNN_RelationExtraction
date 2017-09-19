@@ -1,4 +1,4 @@
-# ResCNN
+# ResCNN_RelationExtraction
  Deep Residual Learning for Weakly-Supervised Relation Extraction: https://arxiv.org/abs/1707.08866
  By Yi Yao (Darren) Huang, [William Wang](https://www.cs.ucsb.edu/~william/)
  
