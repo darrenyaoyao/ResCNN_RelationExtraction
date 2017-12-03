@@ -33,3 +33,4 @@ If you use this model and the concept in your research, please cite:
 
 ### Result
 ![Result](https://user-images.githubusercontent.com/16465582/30602544-6c3bd1a4-9d97-11e7-9f8f-807b436ede16.png)
+vector1.txt: You can use Glove vector or Word2Vec. Here is the link I used in experience : https://drive.google.com/open?id=0B-ZjKY509crKQXA0Y2FfbFJMY0E
